@@ -1,4 +1,4 @@
-# PC-Admins-Synapse-Extras
+# Add identity Server to the mix
 
 Extra steps to configure a Synapse homeserver.
 
